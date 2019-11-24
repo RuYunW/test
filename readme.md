@@ -16,7 +16,7 @@
 
 ---
 
-### 【IEEE Advanced Demo Template for Computer Science Journals revised by ruyun】——论文
+### 【XXX revised by ruyun】——论文
 图片全部存储于`./figure`文件夹下，`【TGE\_Seq2Seq\_pic\_drawer】`中生成的图片请再次复制进该文件夹，二者并不同步。
 
 ---
