@@ -5,7 +5,8 @@
 如：`1big_exp_EJDT_ACC.py`  
 即：`tables.xlsx` 中sheet索引+代码功能  
 3. 所有代码通过读取`tables.xlsx`数据绘图，请直接在`tables.xlsx`下修改数据；  
-4. 图片存储于`./figure`文件夹中，部分坐标经旋转处理图片需手动保存。（通过命令保存的图片会缺失部分坐标数据。）
+4. 图片存储于`./figure`文件夹中，部分坐标经旋转处理图片需手动保存；（通过命令保存的图片会缺失部分坐标数据。）
+5. 环境依赖：Python 3.x，numpy及matplotlib库包。（Anaconda默认安装这两个库包，裸装python请在命令行下分别输入`pip install numpy`、`pip install matplotlib`安装库包。）  
 
 ---
 
